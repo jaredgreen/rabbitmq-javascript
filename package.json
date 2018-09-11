@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-javascript",
+  "version": "1.0.0",
+  "repository": "git@github.com:jaredgreen/rabbitmq-javascript.git",
+  "author": "jaredgreen <jaredgreen23@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
